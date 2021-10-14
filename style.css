@@ -1,0 +1,41 @@
+/* 
+Theme: KTDG
+*/
+
+
+.home {
+    border-radius: 10px;
+    padding: 17px;
+
+}
+
+body {
+    width: 100vw;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+}
+
+a, a:hover, button, button:hover {
+    transition: all 0.2s;
+
+}
+
+    
+.navbar {
+    
+    width: 100%
+    
+}
+
+.logoName {
+    padding-left: 40%;
+}
+
+#hero {
+    height: 500px;
+   
+}
+
+.hero-text {
+    color: white;
+}
