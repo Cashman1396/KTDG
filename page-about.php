@@ -6,6 +6,9 @@ get_header();
 ?>
 
 
+<p>hi</p>
+
+
 
 
 

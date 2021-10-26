@@ -9,10 +9,21 @@
 </head>
 <body>
 
+
+
+<div class="container">
+    <ul>
+        <li>
+<!--- Nav ---->
+<?php wp_nav_menu( array(
+					'theme_location'  => 'header-menu'));  ?>
+        </li>
+    </ul>
+
+</div>
+
 <div class="navbar">
 
-
-    <img class="logoName" src="wp-content/uploads/2021/10/logo-name.png">
-
+    <img class="logoName" src="http://localhost:10088/wp-content/uploads/2021/10/logo-name.png" />
 
 </div>
