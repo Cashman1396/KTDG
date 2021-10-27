@@ -10,7 +10,7 @@
 	 voluptua. At vero eos et accusam et justo duo dolores</p>
 
 	<div class="kids-button">
-	 <button class="custom-btn btn-1"><a href="about">Learn More</a></button>
+	 <button class="custom-btn btn-1"><a href="kids">Learn More</a></button>
 	</div>
 </div>
 
@@ -24,7 +24,7 @@
 	 voluptua. At vero eos et accusam et justo duo dolores</p>
 
 	<div class="teachers-button">
-	 <button class="custom-btn btn-15"><a href="about">Learn More</a></button>
+	<a href="teachers"><button class="custom-btn btn-15">Learn More</button></a>
 	</div>
 </div>
 
@@ -71,9 +71,48 @@
 
 <div class="worksSection">
 	<div class="lights"> 
-		<img src="http://localhost:10088/wp-content/uploads/2021/10/sparkleLights.png">
+		<img src="http://localhost:10088/wp-content/uploads/2021/10/sparksatks-1.png">
+	</div>
+
+	<h3>How It Works</h3>
+
+	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam <br> 
+	erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est <br> Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et <br> dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no</p>
+
+
+	<div class="worksButton">
+	<button class="custom-btn btn-14"><a href="about">Learn More</a></button>
 	</div>
 </div>
+
+<div class="Matters"> 
+
+	<div class="matterHeader">
+		<h3>Why It Matters</h3>
+	</div> 
+
+
+	<div class="water-can">
+		<img src="http://localhost:10088/wp-content/uploads/2021/10/water-can.png">
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
 
 
 
