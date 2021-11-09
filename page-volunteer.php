@@ -1,12 +1,12 @@
 <?php 
 
-/* Template Name: About */
+/* Template Name: Volunteer */
 
 get_header(); 
 ?>
 
 
-<p><a href="whoweare">hi</a></p>
+<p>hi</p>
 
 
 

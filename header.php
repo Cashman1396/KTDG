@@ -24,6 +24,6 @@
 
 <div class="navbar">
 
-    <img class="logoName" src="http://localhost:10088/wp-content/uploads/2021/10/logo-name.png" />
+   <img class="logoName" src="http://localhost:10088/wp-content/uploads/2021/10/logo-name.png" />
 
 </div>
