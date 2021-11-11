@@ -2,6 +2,7 @@
 Theme: KTDG
 */
 
+@font-face {font-family: "Neuzeit Grotesk Regular"; src: url("//db.onlinewebfonts.com/t/5c60085789b1949c7c249c3798453196.eot"); src: url("//db.onlinewebfonts.com/t/5c60085789b1949c7c249c3798453196.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/5c60085789b1949c7c249c3798453196.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/5c60085789b1949c7c249c3798453196.woff") format("woff"), url("//db.onlinewebfonts.com/t/5c60085789b1949c7c249c3798453196.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5c60085789b1949c7c249c3798453196.svg#Neuzeit Grotesk") format("svg"); }
 @font-face {font-family: "Neuzeit Grotesk Light"; src: url("//db.onlinewebfonts.com/t/17b907cfce15b798094fa9e5896a1164.eot"); src: url("//db.onlinewebfonts.com/t/17b907cfce15b798094fa9e5896a1164.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/17b907cfce15b798094fa9e5896a1164.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/17b907cfce15b798094fa9e5896a1164.woff") format("woff"), url("//db.onlinewebfonts.com/t/17b907cfce15b798094fa9e5896a1164.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/17b907cfce15b798094fa9e5896a1164.svg#Neuzeit Grotesk") format("svg"); }
 @font-face {font-family: "Neuzeit Grotesk Bold"; src: url("//db.onlinewebfonts.com/t/e033e2102fee59650a53fb6ed4033c16.eot"); src: url("//db.onlinewebfonts.com/t/e033e2102fee59650a53fb6ed4033c16.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/e033e2102fee59650a53fb6ed4033c16.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/e033e2102fee59650a53fb6ed4033c16.woff") format("woff"), url("//db.onlinewebfonts.com/t/e033e2102fee59650a53fb6ed4033c16.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/e033e2102fee59650a53fb6ed4033c16.svg#Neuzeit Grotesk") format("svg"); }
 
@@ -396,7 +397,7 @@ background-color: rgba(242, 232, 206, .4);
     height: 90px;
     background-color: #E8F9ED;
     width: 16%;
-    margin-left: 70%;
+    margin-left: 80%;
     margin-top: 1%;
     border-radius: 25px;
 }
@@ -456,10 +457,30 @@ background-color: rgba(242, 232, 206, .4);
     background-color: #4EAE98;
 }
 
+.lessonPlans:hover {
+    border-radius: 25px;
+}
+
 .lessonPlans img {
     position: absolute;
     padding-top: 20%;
     padding-left: 20%;
+}
+
+.lessonPlans h1 {
+    font-family: "Neuzeit Grotesk Bold";
+    color: white;
+    padding-left: 20%;
+    padding-top: 37%;
+    line-height: 42px;
+}
+
+.lessonPlans p {
+    font-family: "Neuzeit Grotesk Light";
+    color: white;
+    padding-left: 20%;
+    padding-top: 5%;
+    font-size: 19px;
 }
 
 .toolTips {
@@ -471,6 +492,32 @@ background-color: rgba(242, 232, 206, .4);
     background-color: #4EAE98;
 }
 
+.toolTips:hover {
+    border-radius: 25px;
+    filter: drop-shadow(30px 10px 4px #4444dd);
+}
+
+.toolTips img {
+    position: absolute;
+    padding-top: 20%;
+    padding-left: 20%; }
+
+.toolTips h1 { 
+    font-family: "Neuzeit Grotesk Bold";
+    color: white;
+    padding-left: 20%;
+    padding-top: 35%;
+    line-height: 42px;
+}
+
+
+.toolTips p { 
+    font-family: "Neuzeit Grotesk Light";
+    color: white;
+    padding-left: 20%;
+    padding-top: 5%;
+    font-size: 19px;
+}
 .relateRead {
     position: absolute;
     margin-top: 3%;
@@ -479,6 +526,109 @@ background-color: rgba(242, 232, 206, .4);
     width: 22%;
     background-color: #4EAE98;
 
+}
+
+.relateRead img {
+   
+    padding-top: 18%;
+    padding-left: 20%; 
+}
+
+.relateRead h1 {
+    font-family: "Neuzeit Grotesk Bold";
+    color: white;
+    padding-left: 20%;
+    padding-top: 6%;
+    line-height: 42px;
+}
+
+.relateRead p {
+    font-family: "Neuzeit Grotesk Light";
+    color: white;
+    padding-left: 20%;
+    padding-top: 5%;
+    font-size: 19px;
+}
+
+
+.zigShadow {
+    position: absolute;
+    background-color: rgba(242, 232, 206, .4);
+    height: 200px;
+    width: 100%;
+}
+
+
+
+.bannerAssets img {
+    padding-top: 2%;
+    padding-left: 50%;
+  position: absolute;
+}
+
+.bannerAssets h2 {
+    position: absolute;
+    font-family: "Neuzeit Grotesk Bold";
+    color: #175B86;
+    
+    padding-top: 5%;
+    padding-left: 45%;
+}
+
+.bannerAssets p {
+    position: absolute;
+    font-family: "Neuzeit Grotesk Light";
+    font-size: 22px;
+    padding-top: 8%;
+    padding-left: 35%;
+}
+
+.Charities {
+    background-color: white;
+    height: 1500px;
+}
+.Study {
+    position: absolute;
+    padding-left: 10%;
+    padding-top: 3%;
+}
+
+.studyGreen {
+    position: absolute;
+    height: 160px;
+    width: 71%;
+    background-color: #7DCD94;
+}
+
+.studyGreen h4 {
+    font-family: "Neuzeit Grotesk Regular"; 
+    color: white;
+    font-size: 21px;
+}
+
+.studyGreen p {
+    font-family: "Neuzeit Grotesk Light"; 
+    color: white;
+    font-size: 16px;
+}
+
+.Soup {
+    position: absolute;
+    padding-left: 36%;
+    padding-top: 3%;
+}
+
+.soupGreen {
+    position: absolute;
+    background-color: #E8F9ED;
+    height: 150px;
+    width: 40.5%;
+}
+
+.Cupcake {
+    position: absolute;
+    padding-top: 3%;
+    padding-left: 62%;
 }
 
 .footerBar {
@@ -492,6 +642,9 @@ background-color: rgba(242, 232, 206, .4);
     padding-top: 0.5%;
     padding-left: 5%;
 }
+
+
+
 /* Custom Buttons */
 
 .custom-btn {
