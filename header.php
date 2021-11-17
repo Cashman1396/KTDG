@@ -15,8 +15,7 @@
     <ul>
         <li>
 <!--- Nav ---->
-<?php wp_nav_menu( array(
-					'theme_location'  => 'header-menu'));  ?>
+    <?php wp_nav_menu( array('theme_location'  => 'header-menu'));  ?>
         </li>
     </ul>
 
@@ -24,6 +23,6 @@
 
 <div class="navbar">
 
-   <img class="logoName" src="http://localhost:10088/wp-content/uploads/2021/10/logo-name.png" />
+    <a href="index.php"><img class="logoName" src="http://localhost:10088/wp-content/uploads/2021/10/logo-name.png" /></a>
 
 </div>
