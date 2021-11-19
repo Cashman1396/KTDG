@@ -452,6 +452,15 @@ background-color: rgba(242, 232, 206, .4);
     font-family: "Neuzeit Grotesk Bold";
 } 
 
+/* Kids Section */
+
+.kidShadow {
+    position: absolute;
+    background-color: rgba(232, 249, 237, .4);
+    height: 710px;
+    width: 100%;
+}
+
 /* Teacher Main Section */ 
 .teacherShadow {
     position: absolute;
