@@ -7,7 +7,7 @@ get_header();
 
 <div class="teacherShadow">
 <div class="teacherHeader">
- <h1 class>Teachers That Do Good</h1>
+ <h1>Teachers That Do Good</h1>
 
  <h4>Resources for Teachers</h4>
 </div>

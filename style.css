@@ -28,6 +28,9 @@ a, a:hover, button, button:hover {
     z-index: 11;
     padding-top: 1%;
     display: block;
+    font-family: "Neuzeit Grotesk Regular"; 
+    font-size: 20px;
+
     
 }
 
@@ -454,13 +457,111 @@ background-color: rgba(242, 232, 206, .4);
 
 /* Kids Section */
 
+
+
 .kidShadow {
     position: absolute;
-    background-color: rgba(232, 249, 237, .4);
+    background-color: rgba(232, 249, 237, .6);
     height: 710px;
     width: 100%;
 }
 
+.kidsHeader {
+    position: absolute;
+    padding-top: 5%;
+    padding-left: 40%;
+    font-family: "Neuzeit Grotesk Bold";
+    text-align: center;
+}
+
+.kidsHeader h1 {
+    color: #175B86;
+}
+
+
+
+.charitySquare {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 15%;
+    height: 430px;
+    width: 22%;
+    background-color: #7DCD94;
+}
+
+.charitySquare:hover {
+    border-radius: 25px;
+    filter: drop-shadow(30px 10px 4px #4EAE98);
+}
+
+.charitySquare h1 {
+    padding-top: 50%;
+    padding-left: 10%;
+    color: white;
+    font-family: "Neuzeit Grotesk Bold";
+}
+
+.charitySquare p {
+    font-family: "Neuzeit Grotesk Light";
+    padding-left: 15%;
+    font-size: 19px;
+}
+
+.kidsVolunteer {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 40%;
+    height: 430px;
+    width: 22%;
+    background-color: #7DCD94; 
+}
+
+.kidsVolunteer:hover {
+    border-radius: 25px;
+    filter: drop-shadow(30px 10px 4px #4EAE98);
+}
+
+.kidsVolunteer h1 {
+    padding-top: 45%;
+    padding-left: 10%;
+    color: white;
+    font-family: "Neuzeit Grotesk Bold";
+}
+
+.kidsVolunteer p {
+    font-family: "Neuzeit Grotesk Light";
+    padding-left: 15%;
+    font-size: 19px;
+}
+ 
+.kidsAccount {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 65%;
+    height: 430px;
+    width: 22%;
+    background-color: #7DCD94;
+
+
+}
+
+.kidsAccount:hover {
+    border-radius: 25px;
+    filter: drop-shadow(30px 10px 4px #4EAE98);
+}
+
+.kidsAccount h1 {
+    padding-top: 45%;
+    padding-left: 10%;
+    color: white;
+    font-family: "Neuzeit Grotesk Bold";
+}
+
+.kidsAccount p {
+    font-family: "Neuzeit Grotesk Light";
+    padding-left: 15%;
+    font-size: 19px;
+}
 /* Teacher Main Section */ 
 .teacherShadow {
     position: absolute;
@@ -472,6 +573,7 @@ background-color: rgba(242, 232, 206, .4);
 }
 
 .teacherHeader {
+
      padding-top: 5%;
     font-family: "Neuzeit Grotesk Bold";
     text-align: center;

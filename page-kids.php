@@ -7,8 +7,46 @@ get_header();
 
 <div class="kidShadow"></div>
 <div class="kidsHeader">
-    <img src="http://localhost:10088/wp-content/uploads/2021/11/ZigZag-all-1.png">
+<h1>Kids That Do Good</h1>
+
+<h4>Resources for Kids</h4>
 </div>
+
+
+<div class="charitySquare">
+	<img src="http://localhost:10088/wp-content/uploads/2021/11/lightning.png">
+
+<h1>Start Your <br>
+	Own Charity</h1>
+
+
+	<p>Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, <br> sed diam nonumy eirmod </p>
+</div>
+
+
+
+<div class="kidsVolunteer"> 
+	<img src="http://localhost:10088/wp-content/uploads/2021/11/glass.png">
+	<h1>Search <br> Volunteer <br> Opportunities</h1>
+
+	<p>Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, <br> sed diam nonumy eirmod </p>
+
+</div>
+
+
+<div class="kidsAccount">
+	<img src="http://localhost:10088/wp-content/uploads/2021/11/account.png">
+	<h1>Create An <br> Account</h1>
+
+	<p>Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, <br> sed diam nonumy eirmod </p>
+</div>
+
+
+<div class="ZigBackground">
+	<img src="http://localhost:10088/wp-content/uploads/2021/11/ZigZag-all-1.png">
+</div>
+
+
 
 
 <div class="Contact">
