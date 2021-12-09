@@ -40,6 +40,7 @@ get_header();
 </div>
 </a>
 
+<a href="related-readings">
 <div class="relateRead">
     <img src="http://localhost:10088/wp-content/uploads/2021/11/Book.png">
 
@@ -51,11 +52,14 @@ get_header();
     sed diam nonumy eirmod </p>
 
 </div>
+
+</a>
+
 </div> 
 
 
 <div class="teacherResource">
-    <img src="http://localhost:10088/wp-content/uploads/2021/11/coolerdots.png">
+    <img src="http://localhost:10088/wp-content/uploads/2021/11/dots.png">
 </div>
 
 <div class="Contact">
