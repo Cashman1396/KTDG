@@ -24,13 +24,13 @@ a, a:hover, button, button:hover {
 }
 
 .container {
+    
+    z-index: 6;
     position: absolute;
-    z-index: 11;
-    padding-top: 1%;
-    display: block;
+    
     font-family: "Neuzeit Grotesk Regular"; 
     font-size: 20px;
-
+    
     
 }
 
@@ -43,16 +43,19 @@ a, a:hover, button, button:hover {
     width: 180px;
     background: #fff;
     box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
+    z-index: 6;
 }
 
 .menu-ktdg-container ul li:hover > ul {
     display: block;
     background-color: white;
+    z-index: 6;
     
 }
 
 .menu-ktdg-container li {
     position: relative;
+    z-index: 6;
 }
 ul {
     list-style-type: none;
@@ -67,6 +70,7 @@ li{
 }
 
 li a {
+    z-index: 6;
     display: inline-block;
     text-align: center;
     padding: 14px 16px;
@@ -90,8 +94,8 @@ li a {
 
 .logoName {
     
-    padding-top: 2%;
-    padding-left: 28%;
+    
+    padding-left: 10%;
 }
 
 #hero {
@@ -109,17 +113,17 @@ li a {
 }
 
 .logIn {
-    position: absolute; 
-    padding-top: 2%;
-    padding-left: 68%;
-    z-index: 14;
+    position: absolute;
+    padding-top: 1.5%;
+    padding-left: 75%;
+   z-index: 4;
 }
 
 .signUp {
     position: absolute;
-    padding-top: 2%;
-    padding-left: 82%;
-    z-index: 13;
+    padding-top: 1.5%;
+    padding-left: 85%;
+  
 }
 
 .hero-subtext {
@@ -753,8 +757,9 @@ background-color: rgba(242, 232, 206, .4);
     padding-left: 42%;
 }
 
-.Assets img {
+.Assets img {padding-top: 1%;
     padding-left: 50%;
+    position: absolute;
 }
 
 .bannerAssets p {
@@ -771,7 +776,7 @@ background-color: rgba(242, 232, 206, .4);
     font-family: "Neuzeit Grotesk Bold";
     color: #175B86;
     
-    padding-top: 3%;
+    padding-top: 5%;
     padding-left: 42%;
 }
 
@@ -779,7 +784,7 @@ background-color: rgba(242, 232, 206, .4);
     position: absolute;
     font-family: "Neuzeit Grotesk Light";
     font-size: 22px;
-    padding-top: 6%;
+    padding-top: 9%;
     padding-left: 28%; 
 }
 
@@ -806,8 +811,24 @@ background-color: rgba(242, 232, 206, .4);
     font-size: 21px;
 }
 
-.givingTree {
+
+.givingTree {   
+    position: absolute;
+    padding-top: 5%;
+    padding-left: 10%;
     
+}
+
+.everyOne {
+    position: absolute;
+    padding-top: 5%;
+    padding-left: 35%;
+}
+
+.mittenTree {
+    position: absolute;
+    padding-top: 5%;
+    padding-left: 60%;
 }
 
 .studyGreen p {

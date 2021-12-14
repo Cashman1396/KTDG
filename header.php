@@ -11,7 +11,20 @@
 
 
 
+
+
+
 <div class="container">
+    <div class="logIn">
+        <button class="custom-btn btn-3"><span>Log In</span></button>
+    </div>
+
+
+    <div class="signUp">
+        <button class="custom-btn btn-4"><span>Sign Up</span></button>
+    </div>
+
+
     <ul>
         <li>
 <!--- Nav ---->
@@ -21,23 +34,18 @@
 
 </div>
 
-<div class="logIn">
-    <button class="custom-btn btn-3"><span>Log In</span></button>
-
-</div>
 
 
-<div class="signUp">
-    <button class="custom-btn btn-4"><span>Sign Up</span></button>
-
-
-</div>
 
 <div class="navbar">
 
     <a href="index.php"><img class="logoName" src="http://localhost:10088/wp-content/uploads/2021/10/logo-name.png" /></a>
 
+
+
+
 </div>
+
 
 
 
