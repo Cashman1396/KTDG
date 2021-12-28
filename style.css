@@ -764,6 +764,10 @@ background-color: rgba(242, 232, 206, .4);
     padding-left: 28%; 
 }
 
+.Readings {
+    height: 1000px;
+}
+
 .givingTree {   
     position: absolute;
     padding-top: 5%;
@@ -833,8 +837,65 @@ background-color: rgba(242, 232, 206, .4);
     padding-left: 60%;
 }
 
-/* Tools and Tips */
+.mittenBorder {
+    margin-top: 20%;
+    margin-left: 0%;
+    position: absolute;
+    padding-top: 3%;
+    height: 190px;
+    width: 28.5%;
+    background-color: #4EAE98;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
 
+.mittenBorder h6 {
+    color: white;
+     font-family: "Neuzeit Grotesk Regular";
+     font-size: 21px;
+     padding-left: 5%;
+}
+
+.mittenBorder p {
+    font-size: 16px;
+    padding-left: 5%;
+    font-family: "Neuzeit Grotesk Light";
+}
+
+.thankful {
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 10%;
+}
+
+.thankfulBorder {
+    margin-top: 72.5%;
+    background-color: #4EAE98;
+    position: absolute;
+    height: 190px;
+    width: 100%;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+
+.thankfulBorder h6 {
+    color: white;
+    font-family: "Neuzeit Grotesk Regular";
+    font-size: 21px;
+    padding-top: 10%;
+    padding-left: 5%;
+}
+
+.thankful p {
+    font-size: 16px;
+    padding-left: 5%;
+    font-family: "Neuzeit Grotesk Light";
+}
+
+
+
+/* Tools and Tips */
 
 .bannerAssets img {
     padding-top: 2%;
@@ -846,12 +907,9 @@ background-color: rgba(242, 232, 206, .4);
     position: absolute;
     font-family: "Neuzeit Grotesk Bold";
     color: #175B86;
-    
     padding-top: 5%;
     padding-left: 42%;
 }
-
-
 
 .bannerAssets p {
     position: absolute;
@@ -861,13 +919,11 @@ background-color: rgba(242, 232, 206, .4);
     padding-left: 33%;
 }
 
-
-
-
 .Charities {
     background-color: white;
     height: 1500px;
 }
+
 .Study {
     position: absolute;
     padding-left: 10%;
@@ -885,43 +941,6 @@ background-color: rgba(242, 232, 206, .4);
     font-family: "Neuzeit Grotesk Regular"; 
     color: white;
     font-size: 21px;
-}
-
-/* Related Reading */
-.Assets h2 {
-    position: absolute;
-    font-family: "Neuzeit Grotesk Bold";
-    color: #175B86;
-    
-    padding-top: 5%;
-    padding-left: 42%;
-}
-
-.Assets p {
-    position: absolute;
-    font-family: "Neuzeit Grotesk Light";
-    font-size: 22px;
-    padding-top: 9%;
-    padding-left: 28%; 
-}
-
-.givingTree {   
-    position: absolute;
-    padding-top: 5%;
-    padding-left: 10%;
-    
-}
-
-.everyOne {
-    position: absolute;
-    padding-top: 5%;
-    padding-left: 35%;
-}
-
-.mittenTree {
-    position: absolute;
-    padding-top: 5%;
-    padding-left: 60%;
 }
 
 .studyGreen p {

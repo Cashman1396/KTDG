@@ -21,11 +21,11 @@ get_header();
     
 </div>
 
+<div class="Readings">
 
+    <div class="givingTree">
 
-<div class="givingTree">
-
-<div class="treeBorder">
+    <div class="treeBorder">
         <h6>The Giving Tree <br>
         By: Shel Silverstein</h6>
 
@@ -35,10 +35,10 @@ get_header();
 
   
 
-</div>
+    </div>
 
 
-<div class="everyOne">
+    <div class="everyOne">
 
     <div class="everyBorder">
         <h6>
@@ -49,15 +49,57 @@ get_header();
        <p>Reading Level: 1-3 years old</p>
 
 
-   </div>
+    </div>
     <img src="http://localhost:10088/wp-content/uploads/2021/12/everybodyone.png">
 
 
-</div>
+    </div>
 
 
-<div class="mittenTree">
+    <div class="mittenTree">
+
+    <div class="mittenBorder">
+        <h6>The Mitten Tree <br>
+        By: Candace Christiansen</h6>
+
+
+        <p>Bake sales are a great way to kick off <br> 
+        fundraising efforts for your group. <br>  
+        Here’s how to plan one.</p>
+
+
+
+    </div>
     <img src="http://localhost:10088/wp-content/uploads/2021/12/mittentree.png">
+
+
+    </div>
+
+    <div class="thankful">
+        <div class="thankfulBorder">
+
+        <h6>Thankful <br>
+        By: Eileen Spinelli</h6>
+
+        <p>Did you know that you can create <br>
+         fundraisers for nonprofits and personal <br>
+          causes on Facebook? </p>
+
+
+        </div>
+        <img src="http://localhost:10088/wp-content/uploads/2021/12/thankful.png">
+    </div>
+
+
+    <div class="phoneBook"> 
+        <div class="phoneBorder">
+
+
+
+
+        </div>
+        <img src="http://localhost:10088/wp-content/uploads/2021/12/handiphone.png">
+    </div>
 
 
 </div>
