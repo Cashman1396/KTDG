@@ -94,11 +94,31 @@ get_header();
     <div class="phoneBook"> 
         <div class="phoneBorder">
 
+        <h6>Uncle Willie and the Soup Kitchen <br>
+        By: Dyanne Disalvo-Ryan</h6>
 
+        <p>Email is a quick and cost-effective way <br>
+         to connect with people who may be <br>
+         interested in attending. </p>
 
 
         </div>
         <img src="http://localhost:10088/wp-content/uploads/2021/12/handiphone.png">
+    </div>
+
+    <div class="messageVolun">
+        <div class="messageBorder">
+
+            <h6>The Littlest Volunteers <br>
+            By: Danielle Speckharta</h6>
+
+            <p>A comprehensive guide for how to <br>
+             promote your event on Facebook.</p>
+
+        </div>
+
+        <img src="http://localhost:10088/wp-content/uploads/2021/12/message2.0.png">
+
     </div>
 
 

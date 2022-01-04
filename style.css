@@ -94,8 +94,7 @@ li a {
 
 .logoName {
     
-    
-    padding-left: 10%;
+    padding-left: 24%;
 }
 
 #hero {
@@ -765,7 +764,7 @@ background-color: rgba(242, 232, 206, .4);
 }
 
 .Readings {
-    height: 1000px;
+    height: 1600px;
 }
 
 .givingTree {   
@@ -834,7 +833,7 @@ background-color: rgba(242, 232, 206, .4);
 .mittenTree {
     position: absolute;
     padding-top: 5%;
-    padding-left: 60%;
+    padding-left: 62%;
 }
 
 .mittenBorder {
@@ -843,7 +842,7 @@ background-color: rgba(242, 232, 206, .4);
     position: absolute;
     padding-top: 3%;
     height: 190px;
-    width: 28.5%;
+    width: 28.1%;
     background-color: #4EAE98;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -893,6 +892,66 @@ background-color: rgba(242, 232, 206, .4);
     font-family: "Neuzeit Grotesk Light";
 }
 
+.phoneBook {
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 36%;
+}
+
+.phoneBorder {
+    margin-top: 72%;
+    background-color: #7DCD94;
+    width: 100%;
+    position: absolute;
+    height: 190px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.phoneBorder h6 {
+    color: white;
+    font-family: "Neuzeit Grotesk Regular";
+    font-size: 21px;
+    padding-top: 10%;
+    padding-left: 5%;
+}
+
+.phoneBorder p {
+    font-size: 16px;
+    padding-left: 5%;
+    font-family: "Neuzeit Grotesk Light";
+}
+
+.messageVolun {
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 62%;
+}
+
+.messageBorder {
+    margin-top: 72%;
+    background-color: #A7DDD0;
+    width: 100%;
+    position: absolute;
+    height: 190px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+
+.messageBorder h6 {
+    color: white;
+    font-family: "Neuzeit Grotesk Regular";
+    font-size: 21px;
+    padding-top: 10%;
+    padding-left: 5%;
+}
+
+.messageBorder p {
+    font-size: 16px;
+    padding-left: 5%;
+    font-family: "Neuzeit Grotesk Light";
+}
 
 
 /* Tools and Tips */
@@ -957,9 +1016,14 @@ background-color: rgba(242, 232, 206, .4);
 
 .soupGreen {
     position: absolute;
-    background-color: #E8F9ED;
+    background-color: #A7DDD0;
     height: 150px;
     width: 40.5%;
+}
+
+.soupGreen h4 {
+    font-family: "Neuzeit Grotesk Regular"; 
+    color: white;
 }
 
 .Cupcake {
@@ -967,6 +1031,21 @@ background-color: rgba(242, 232, 206, .4);
     padding-top: 3%;
     padding-left: 62%;
 }
+
+.cupcakeGreen {
+    background-color: #4EAE98;
+    height: 150px;
+    width: 28.5%;
+    position: absolute;
+
+}
+
+.cupcakeGreen h4 {
+    font-family: "Neuzeit Grotesk Regular"; 
+    color: white;
+}
+
+
 
 
 /* Footer */

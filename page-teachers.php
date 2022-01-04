@@ -12,7 +12,7 @@ get_header();
  <h4>Resources for Teachers</h4>
 </div>
 
-
+<a href="lessonplans">
 <div class="lessonPlans">
     <img src="http://localhost:10088/wp-content/uploads/2021/11/clip.png">
 
@@ -25,6 +25,7 @@ get_header();
 
 
 </div>
+</a>
 
 <a href="tools-tips">
 <div class="toolTips">
