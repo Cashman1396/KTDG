@@ -59,9 +59,10 @@ get_header();
     </div>
 
     <div class="Flowers">
-        <img src="http://localhost:10088/wp-content/uploads/2022/01/Flowers.png">
+        <img src="http://localhost:10088/wp-content/uploads/2022/01/Flowers-1-e1641325792833.png">
+    <div class="flowersGreen">
 
-    <div class="flowersGreen"></div>
+    </div>
     </div>
 
 
