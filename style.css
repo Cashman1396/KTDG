@@ -732,6 +732,103 @@ background-color: rgba(242, 232, 206, .4);
     font-size: 19px;
 }
 
+.bannerAssets img {
+    padding-top: 2%;
+    padding-left: 47%;
+  position: absolute;
+}
+
+.bannerAssets h2 {
+    position: absolute;
+    font-family: "Neuzeit Grotesk Bold";
+    color: #175B86;
+    padding-top: 5%;
+    padding-left: 42%;
+}
+
+.bannerAssets p {
+    position: absolute;
+    font-family: "Neuzeit Grotesk Light";
+    font-size: 22px;
+    padding-top: 8%;
+    padding-left: 33%;
+}
+
+/* Lesson Plans */
+
+.lessons {
+
+    padding-top: 30%;
+
+}
+
+.titleHead img {
+    padding-top: 2%;
+    padding-left: 47%;
+    position: absolute;
+}
+
+.titleHead h2 {
+    position: absolute;
+    font-family: "Neuzeit Grotesk Bold";
+    color: #175B86;
+    padding-top: 5%;
+    padding-left: 32%;
+}
+
+.grade {
+
+    background-color: #E2E2E2;
+    width: 25%;
+    height: 75px;
+    margin-top: 20%;
+    margin-left: 10%;
+   font-size: 19px;
+   font-family: "Neuzeit Grotesk Light";
+   color: #175B86;
+   padding-left: 60px;
+   padding-top:1.5%;
+   position: absolute;
+}
+
+.grade p {
+    padding-left: 25%;
+}
+
+.subject {
+    position: absolute;
+    background-color: #E2E2E2;
+    width: 25%;
+    height: 75px;
+    margin-top: 20%;
+    margin-left: 40%;
+   font-size: 19px;
+   font-family: "Neuzeit Grotesk Light";
+   color: #175B86;
+   padding-left: 60px;
+   padding-top:1.5%;
+
+}
+
+.subject p {
+    padding-left: 25%;
+}
+
+
+
+.duration {
+
+    background-color: #E2E2E2;
+    width: 20%;
+    height: 75px;
+    margin-top: 20%;
+    margin-left: 70%;
+   font-size: 19px;
+   font-family: "Neuzeit Grotesk Light";
+   color: #175B86;
+   padding-left: 60px;
+   padding-top:1.5%;
+}
 /* Related Reading */
 
 .zigShadow {
@@ -956,27 +1053,7 @@ background-color: rgba(242, 232, 206, .4);
 
 /* Tools and Tips */
 
-.bannerAssets img {
-    padding-top: 2%;
-    padding-left: 47%;
-  position: absolute;
-}
 
-.bannerAssets h2 {
-    position: absolute;
-    font-family: "Neuzeit Grotesk Bold";
-    color: #175B86;
-    padding-top: 5%;
-    padding-left: 42%;
-}
-
-.bannerAssets p {
-    position: absolute;
-    font-family: "Neuzeit Grotesk Light";
-    font-size: 22px;
-    padding-top: 8%;
-    padding-left: 33%;
-}
 
 .Charities {
     background-color: white;

@@ -8,7 +8,7 @@ get_header();
 
 <div class="zigShadow">
 <div class="bannerAssets">
-        <img src="http://localhost:10088/wp-content/uploads/2021/11/lightbulb.png">
+        <img src="http://localhost:10088/wp-content/uploads/2021/11/clip.png">
 
         <h2>Lesson Plans</h2>
 
@@ -21,9 +21,17 @@ get_header();
 
 
 
+<div class="lessons">
+    
+<a href="lesson-detail">
+<h6>Endangered Species</h6>
+
+</a>
 
 
 
-
-<?php get_footer(); ?>
 </div>
+
+
+
+
